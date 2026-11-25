@@ -1,0 +1,15 @@
+{
+  "source_url": null,
+  "last_computed": null,
+  "control_exposures": null,
+  "decision_exposures": null,
+  "control_conversions": null,
+  "decision_conversions": null,
+  "chance_to_beat_control": null,
+  "lift_interval_low": null,
+  "lift_interval_high": null,
+  "srm_warning": null,
+  "excluded_identities": null,
+  "guardrail_passed": null,
+  "synthetic": null
+}
